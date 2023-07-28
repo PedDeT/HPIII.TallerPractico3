@@ -1,0 +1,52 @@
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\PruebaMenuConInterfaz.exe
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\PruebaMenuConInterfaz.deps.json
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\PruebaMenuConInterfaz.runtimeconfig.json
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\PruebaMenuConInterfaz.dll
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\PruebaMenuConInterfaz.pdb
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.vbproj.AssemblyReference.cache
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.Form1.resources
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.vbproj.GenerateResource.cache
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.AssemblyInfoInputs.cache
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.AssemblyInfo.vb
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.vbproj.CoreCompileInputs.cache
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.vbproj.CopyComplete
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.dll
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\refint\PruebaMenuConInterfaz.dll
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.pdb
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.genruntimeconfig.cache
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\ref\PruebaMenuConInterfaz.dll
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.Resources.resources
+C:\Users\rener\OneDrive\Escritorio\Universidad\Tercer Año\Primer semestre\Herramientas de programación aplicada 3\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.tablaLibros.resources
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\PruebaMenuConInterfaz.exe
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\PruebaMenuConInterfaz.deps.json
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\PruebaMenuConInterfaz.runtimeconfig.json
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\PruebaMenuConInterfaz.dll
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\PruebaMenuConInterfaz.pdb
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.vbproj.AssemblyReference.cache
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.Form1.resources
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.Resources.resources
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.tablaLibros.resources
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.vbproj.GenerateResource.cache
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.AssemblyInfoInputs.cache
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.AssemblyInfo.vb
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.vbproj.CoreCompileInputs.cache
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.vbproj.CopyComplete
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.dll
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\refint\PruebaMenuConInterfaz.dll
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.pdb
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\PruebaMenuConInterfaz.genruntimeconfig.cache
+C:\Users\pldel\Desktop\PruebaMenuConInterfaz\PruebaMenuConInterfaz\obj\Debug\net6.0-windows\ref\PruebaMenuConInterfaz.dll
